@@ -1,6 +1,6 @@
-# a minimalistic approach to the api that serves the lineup div in the match page
+# a minimalistic approach to the api that serves the teamList div in the match page
 # a lot of things are left out from that api response like birth info of players
-# usual positions of players etc.
+# usual positions of players etc. The class handles the data for one team not both
 #
 # For reference, the original api response in the website
 #
